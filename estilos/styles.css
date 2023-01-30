@@ -6,17 +6,48 @@
 body{
   font-family: Arial, Helvetica, sans-serif
 }
-h1{
-  padding: 15px 20px;
+.container{
   text-align: center;
+}
+
+.titulo{
+  padding: 15px 20px;
   background-color: rgb(15, 30, 126);
   color: #fff;
   font-style: italic;
   font-size: 2.2rem;
 }
 
-p{
+.descripcion{
   padding: 10px 20px;
   text-align: justify;
   font-size: 1.2rem;
+}
+.enlace{
+  display: inline-block;
+  text-decoration: none;
+  padding: 15px 40px;
+  background-color: black;
+  color: #fff;
+  margin-bottom: 15px;
+}
+
+.article{
+  margin-top: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 70%;
+  margin: auto;
+  background-color: rgb(137, 165, 238);
+  padding: 20px;
+  text-align: center;
+}
+
+.subtitulo{
+  font-size: 1.8rem;
+  letter-spacing: 4px;
+  margin-bottom: 10px;
+}
+.parrafo{
+  line-height: 1.5;
+  font-size: 1.1rem;
 }
