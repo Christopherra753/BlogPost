@@ -8,3 +8,6 @@ Estoy buscando trabajo como practicante para mis practicas pre-profesionales
 Soy Zeroberto Romero Avendaño
 Soy la misma persona pero usando mi segundo nombre,
 y lo hago para practicar en GitHub
+
+
+Zeroberto comunicando que hizo un fork con el proyecto de christopher
